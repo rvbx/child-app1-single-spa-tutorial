@@ -8,7 +8,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:4201/`. The app 
 
 ## Single-spa Development server
 
-You need to have the base app and child-app1. 
+You need to have the base app and child-app2. 
 
 #### Links below to clone and install:
 <p>BASE-APP: https://github.com/rodolfo-boas/base-app-single-spa-tutorial</p>
