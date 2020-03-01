@@ -61,3 +61,9 @@ import 'zone.js/dist/zone';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+// Web Components Polyfill
+
+// SystemJS
+// import 'systemjs/dist/system.min';
+
+// (window as any).global = window;
